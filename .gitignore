@@ -1,1 +1,3 @@
 .DS_Store
+*.safariextension
+node_modules
